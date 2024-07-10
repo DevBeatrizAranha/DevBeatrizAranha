@@ -32,6 +32,7 @@ My name is Beatriz Aranha, and I am a passionate data enthusiast with over 3 yea
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](#)
 [![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)](#)
 
 
