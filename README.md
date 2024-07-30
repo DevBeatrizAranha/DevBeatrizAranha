@@ -46,9 +46,6 @@ I have experience in building and maintaining user interfaces for web applicatio
 # 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-aranha-89b490168/)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-red?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@miss.azuri?_t=8lhNBuglJUD)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bluefire5/)
-
 
 
 
