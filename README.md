@@ -11,9 +11,6 @@ My name is Beatriz Aranha, and I am a passionate data enthusiast with over 3 yea
 - **Passionate Pythonista:**  
   I master the use of Python for data analysis, with solid knowledge of libraries such as pandas, numpy, and scikit-learn. I use Python to collect, clean, and analyze data, as well as to create predictive models and impactful visualizations.
 
-- **Professional Frontend Developer:**  
-I have experience in building and maintaining user interfaces for web applications. I enjoy working with modern frameworks and libraries to create responsive and interactive user experiences. My skill set includes HTML, CSS, JavaScript, and tools like React, Angular, Next.js, and Tailwind CSS.
-
 
 ## 🌱 Recent Projects
 
